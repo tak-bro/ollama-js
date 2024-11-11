@@ -1,3 +1,9 @@
+# @tak-bro/ollama
+
+This is a forked version of [ollama/ollama-js](https://github.com/ollama/ollama-js) with some modifications for [aicommit2](https://github.com/tak-bro/aicommit2).
+
+--------
+
 # Ollama JavaScript Library
 
 The Ollama JavaScript library provides the easiest way to integrate your JavaScript project with [Ollama](https://github.com/jmorganca/ollama).
